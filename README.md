@@ -1,5 +1,4 @@
 # BNB-DAO
-# FreePeopleDAO
 
 Brand new DAO ecological governance community in the Web 3.0 era
 
