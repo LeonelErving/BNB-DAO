@@ -1,4 +1,4 @@
-All for BNB
+# All for BNB
 
 First, Binance will try to lay out almost all leading players in the ecological niche
 Domain, cannot be absent;
@@ -19,7 +19,7 @@ Pro smart contracts are combined with decentralization.
 
 
 
-BNB DAO Ecological Model
+## BNB DAO Ecological Model
 
 zcp is developed based on bnb, with a circulation of 200 million, and it is the first time to participate in the address airdrop 1 bnb = 500 zcp
 
