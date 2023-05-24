@@ -1,5 +1,7 @@
 # All for BNB
 
+ ![image](https://github.com/LeonelErving/BNB-DAO/blob/main/logo.png)
+
 First, Binance will try to lay out almost all leading players in the ecological niche<br>
 Domain, cannot be absent;<br>
 The second is that all actions will try to empower BNB. Until now, I still remember the slogan that Binance co-founder He Yi once shouted that BNB is bigger than Binance many years ago.<br>
