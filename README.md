@@ -13,7 +13,7 @@ It can be linked with Cosmos ecology through IBC;
 3. BNB Greenfield based on the rights and interests of the Tendermint consensus
 Pro smart contracts are combined with decentralization.
 
-
+ # [BNB DAO white paper](https://github.com/LeonelErving/BNB-DAO/blob/main/pdf.pdf)
 
 
 
