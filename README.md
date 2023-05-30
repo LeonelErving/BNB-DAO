@@ -110,11 +110,13 @@ Last place 40% <br>
 Bottom 2-100 60% share <br>
 If the compensation pool accumulates to 10,000 BNB, the contract will be triggered, and the currency value management team will be promoted to launch zcp on the exchange
 
-Community ranking 6% (weekly ranking according to the sum of small departments and new performance)<br>
+Community ranking 5%(weekly ranking<br>
 
-2% for the first place, 1% for the second place, 0.5% for the third place, 2.5% for the fourth-twentieth place
+according to the sum of small departments and new performance)Top 20 share 5% equally<br>
 
-4% of the Dao committee rewards the contributing dao committee members (dao committee members are recommended by the community and need a place and evangelists)<br>
+5% of the Dao committee rewards the<br>
+
+contributing dao committee members(dac committee members are recommended by the community and need a place and evangelists)<br>
 
 Technology Fund 5%<br>
 
